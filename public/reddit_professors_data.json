@@ -1,0 +1,610 @@
+{
+  "source": "reddit_utdallas",
+  "scraped_at": "2026-03-07T22:54:25.187620",
+  "total_professor_discussions": 28,
+  "professors_searched": 30,
+  "threads": [
+    {
+      "subreddit": "utdallas",
+      "post_id": "h17v4k",
+      "title": "Dr. Gupta has publicly announced that he will no longer be CS Department Head",
+      "url": "https://reddit.com/r/utdallas/comments/h17v4k/dr_gupta_has_publicly_announced_that_he_will_no/",
+      "score": 150,
+      "num_comments": 49,
+      "created_utc": 1591909037.0,
+      "body": "Dr. Gupta just sent out an email to the CS undergrad mailing list. I am including the email in full, for everyone who isn't a CS undergrad. \nThe subject line was \"[ecs.cs.ug] Thank you\"\n\nDear Students,\n\n\nI will no longer be CS Department Head after June 15th. Prof. DT Huynh will be the interim depar",
+      "professor": {
+        "first_name": "Jennifer",
+        "last_name": "Johnson"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "jq7xqa",
+      "title": "How is this Allowed?",
+      "url": "https://reddit.com/r/utdallas/comments/jq7xqa/how_is_this_allowed/",
+      "score": 80,
+      "num_comments": 14,
+      "created_utc": 1604821766.0,
+      "body": "I just received a \"study guide\" for the final exam in my CS 3354 Software Engineering class. (Nothing to review, just a description of the test times, policy, etc). The test description states there will be 60 questions, with no backtracking, and a test time of 30 MINUTES. The final is worth 35% of ",
+      "professor": {
+        "first_name": "Saba",
+        "last_name": "Khan"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "time, compared to the amount of questions provided",
+          "in my cs 3354 software engineering class",
+          "worth 35% of the course grade"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1f0j8vx",
+      "title": "Parking is awful",
+      "url": "https://reddit.com/r/utdallas/comments/1f0j8vx/parking_is_awful/",
+      "score": 70,
+      "num_comments": 19,
+      "created_utc": 1724543810.0,
+      "body": "Orange is taking over gold, gold taking over green. Parking overall getting more expensive. I used to have green last year and had almost no issue with parking in lot A. Now it\u2019s almost impossible finding any in lots A,B,C. Hopefully it\u2019s just people using the grace period(up till 8/29/2024) and get",
+      "professor": {
+        "first_name": "Jennifer",
+        "last_name": "Johnson"
+      },
+      "metadata": {
+        "difficulty": [
+          "impossible"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1ar7kf2",
+      "title": "hahahahahahahahahahaha",
+      "url": "https://reddit.com/r/utdallas/comments/1ar7kf2/hahahahahahahahahahaha/",
+      "score": 58,
+      "num_comments": 13,
+      "created_utc": 1707972799.0,
+      "body": "the day is feburary 14th, valentines day. a day of spreading love and joy. all around me there are people laughing and sitting in pairs like doublets of doublets in proton nmr. my name is darkness dementia raven way and i am 20 years old. my ebony black hair is as long as aldehyde bending stretch an",
+      "professor": {
+        "first_name": "Steven",
+        "last_name": "White"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [
+          "one of introduction to organic chemistry ii with d"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "bjlrwr",
+      "title": "UTD Foodie Review: Northside Mac Daddy Pizza",
+      "url": "https://reddit.com/r/utdallas/comments/bjlrwr/utd_foodie_review_northside_mac_daddy_pizza/",
+      "score": 57,
+      "num_comments": 15,
+      "created_utc": 1556741122.0,
+      "body": "http://i.imgur.com/xG6VMdV.jpg\n\nWhat's up guys, I'm back with another review but this time it ain't tendies. Someone suggested the mac daddy pizza from Northside Drafthouse so here it is.\n\nThe mac daddy comes with mac and cheese, fried chicken, white sauce and buffalo drizzle on a thin crust. Initia",
+      "professor": {
+        "first_name": "Steven",
+        "last_name": "White"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "nh9uwo",
+      "title": "Helpful tips for the freshman/anyone at UTD",
+      "url": "https://reddit.com/r/utdallas/comments/nh9uwo/helpful_tips_for_the_freshmananyone_at_utd/",
+      "score": 43,
+      "num_comments": 19,
+      "created_utc": 1621540604.0,
+      "body": "I wrote this for someone else's question but it has a ton of useful things that most people dont use or do and that makes them pay $1000s extra plus waste time. I would reformat but it wouldn't add much value. This is mainly from a conversation with a freshman. Thought I'd share with everyone, my id",
+      "professor": {
+        "first_name": "Steven",
+        "last_name": "White"
+      },
+      "metadata": {
+        "difficulty": [
+          "easy",
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "ls8ey5",
+      "title": "Fintech class under professor Eric Zheng",
+      "url": "https://reddit.com/r/utdallas/comments/ls8ey5/fintech_class_under_professor_eric_zheng/",
+      "score": 22,
+      "num_comments": 0,
+      "created_utc": 1614265219.0,
+      "body": "Guys any idea how are exams and quiz for the subjects Fintech and Blockchain under professor Eric???\nHow to prepare for the quiz and exams? Any tips.",
+      "professor": {
+        "first_name": "Liheng",
+        "last_name": "Zheng"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "and quiz for the subjects fintech and blockchain u"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "jznapq",
+      "title": "Student Government Town Hall with University Administration",
+      "url": "https://reddit.com/r/utdallas/comments/jznapq/student_government_town_hall_with_university/",
+      "score": 18,
+      "num_comments": 16,
+      "created_utc": 1606156088.0,
+      "body": " **Update: the vice speakers of Academic Senate will be joining the Town Hall tomorrow to address the matter of CR/NC before answering all other questions.**  \nHi, Comets! This is the Student Affairs Committee on Student Government, and we have an event coming up that will allow you to voice your qu",
+      "professor": {
+        "first_name": "Jennifer",
+        "last_name": "Johnson"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "fnr7ll",
+      "title": "Theory about why UC &amp; CCH residents were evicted, but not UV residents",
+      "url": "https://reddit.com/r/utdallas/comments/fnr7ll/theory_about_why_uc_cch_residents_were_evicted/",
+      "score": 7,
+      "num_comments": 10,
+      "created_utc": 1584995055.0,
+      "body": "Disclaimer: This entire post is pure conjecture. This is in no way confirmed by UTD, University Housing, or literally anyone official. It's just a thought I had; I bounced it off a couple friends and they bought into it, so I thought I'd share it here for shits and giggles.\n\nI had this thought as I ",
+      "professor": {
+        "first_name": "Steven",
+        "last_name": "White"
+      },
+      "metadata": {
+        "difficulty": [
+          "easy"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "6d7dup",
+      "title": "Has anyone taken ARTS 1316 - Drawing Foundations?",
+      "url": "https://reddit.com/r/utdallas/comments/6d7dup/has_anyone_taken_arts_1316_drawing_foundations/",
+      "score": 6,
+      "num_comments": 7,
+      "created_utc": 1495685989.0,
+      "body": "CS major here, I could be taking some other easy A free electives but I thought \"why not pursue something useful\". \n\nAt the same time I am taking 3 honors classes next semester so I'm kind of stuck on whether to ditch this or not.\n\nI emailed the person who's teaching my section(Kristen Cochran), tho",
+      "professor": {
+        "first_name": "Kristen",
+        "last_name": "Cochran"
+      },
+      "metadata": {
+        "difficulty": [
+          "easy",
+          "difficult"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "6qqzij",
+      "title": "How is Paul Stanford with teaching Applied Calc 1?",
+      "url": "https://reddit.com/r/utdallas/comments/6qqzij/how_is_paul_stanford_with_teaching_applied_calc_1/",
+      "score": 5,
+      "num_comments": 5,
+      "created_utc": 1501530995.0,
+      "body": "His UTD evaluations were alright, but his rate my professor rating is a little bit all over the place in the eyes of reviewers. Is he a good professor?\n\nEdit AFTER taking his class: Professor Stanford is not the best professor, but he is good. And I say this after I took it, because as I was taking ",
+      "professor": {
+        "first_name": "Paul",
+        "last_name": "Stanford"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [
+          "times were at night, but that's to fit in all the "
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "sndoev",
+      "title": "CS 1337 with Miguel Razo",
+      "url": "https://reddit.com/r/utdallas/comments/sndoev/cs_1337_with_miguel_razo/",
+      "score": 4,
+      "num_comments": 1,
+      "created_utc": 1644302999.0,
+      "body": "Aight! Just putting it out there cuz I\u2019m worried af. Three weeks in, in-person classes just started and I\u2019m already screwing up some of my assignments. Taking CS 1337 with Razo. Just wanted to ask if anyone has taken his class before and what are the chances of getting an A. His daily quizzes and in",
+      "professor": {
+        "first_name": "Miguel",
+        "last_name": "Razo"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1qtg6lq",
+      "title": "CS 4375 &amp; CS 4390",
+      "url": "https://reddit.com/r/utdallas/comments/1qtg6lq/cs_4375_cs_4390/",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": 1769992900.0,
+      "body": "I am currently taking intro to ML with Tahrima Rahman. Are here exams difficult? The homeworks are really long and complex.\n\nFor computer networks I have Solanki. This class is pretty chill but her assignments are lengthy. How are her exams?",
+      "professor": {
+        "first_name": "Mahbubur",
+        "last_name": "Rahman"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1jumfgs",
+      "title": "Chappidi or Khan for 2336",
+      "url": "https://reddit.com/r/utdallas/comments/1jumfgs/chappidi_or_khan_for_2336/",
+      "score": 4,
+      "num_comments": 7,
+      "created_utc": 1744140973.0,
+      "body": "My two options for the summer are Sruthi Chappidi and Ziuallah Khan - Who would you say is better? I heard Khan is crazy but if you participate you\u2019ll do well but I didn\u2019t hear much about Chappidi\n\nWho would you choose?\n\nEdit: I took Smith for 1337 so Ideally Im looking for someone who is okay-good ",
+      "professor": {
+        "first_name": "Saba",
+        "last_name": "Khan"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "tyhu18",
+      "title": "BIOL 4330 Advanced Research in Molecular and Cell Biology with Li Zhang",
+      "url": "https://reddit.com/r/utdallas/comments/tyhu18/biol_4330_advanced_research_in_molecular_and_cell/",
+      "score": 3,
+      "num_comments": 5,
+      "created_utc": 1649351762.0,
+      "body": "Has anyone taken this course? It looks interesting because it is mostly research and the class has good grades distribution too (mostly A among like 14-15 student class size). I'm thinking about reaching out to apply. I am also taking Genetics and Biochem 1 together so I need a not-too-hard course t",
+      "professor": {
+        "first_name": "Licheng",
+        "last_name": "Zhang"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "59hvkj",
+      "title": "Best Organic Chemistry II Professors?",
+      "url": "https://reddit.com/r/utdallas/comments/59hvkj/best_organic_chemistry_ii_professors/",
+      "score": 3,
+      "num_comments": 5,
+      "created_utc": 1477492924.0,
+      "body": "I've heard great things about Stefan, Cortes, and Thompson. What about Taenzler and Novak? Are they really as difficult as people say they are? ",
+      "professor": {
+        "first_name": "Sergio",
+        "last_name": "Cortes"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1332mrn",
+      "title": "Grading cs 1337 with Miguel Razo",
+      "url": "https://reddit.com/r/utdallas/comments/1332mrn/grading_cs_1337_with_miguel_razo/",
+      "score": 3,
+      "num_comments": 4,
+      "created_utc": 1682791802.0,
+      "body": "was just wondering if there's a final curve at the end of class, he gave a extra credit opportunity (15pts) for our second exam because the class average was like in the 40s. Just curious if something similar is going to happen for the final.",
+      "professor": {
+        "first_name": "Miguel",
+        "last_name": "Razo"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "because the class average was like in the 40s"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "hy20w6",
+      "title": "CS 1325 under Professor Razo",
+      "url": "https://reddit.com/r/utdallas/comments/hy20w6/cs_1325_under_professor_razo/",
+      "score": 3,
+      "num_comments": 1,
+      "created_utc": 1595744537.0,
+      "body": "So, I have signed up for my CS 1325 class under Professor Razo and was just wondering how his grading criteria as well as his course difficulty is. If it's not worth it and too harsh, I was just thinking about taking it at community to not ruin my GPA. Has anyone had him before or heard anything abo",
+      "professor": {
+        "first_name": "Miguel",
+        "last_name": "Razo"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1kgcuxu",
+      "title": "URGENT HELP: phys 1301 with Dr. Khan final exam and curve",
+      "url": "https://reddit.com/r/utdallas/comments/1kgcuxu/urgent_help_phys_1301_with_dr_khan_final_exam_and/",
+      "score": 3,
+      "num_comments": 1,
+      "created_utc": 1746558502.0,
+      "body": "Hello, I need to score 90+ on the final with Dr. khan college physics and I need tips on her finals. also, does she curve the final grade? Thank you! ",
+      "professor": {
+        "first_name": "Saba",
+        "last_name": "Khan"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "and curve hello, i need to score 90+ on the final "
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "11w1ft2",
+      "title": "How to study for Physics 2325 exams",
+      "url": "https://reddit.com/r/utdallas/comments/11w1ft2/how_to_study_for_physics_2325_exams/",
+      "score": 2,
+      "num_comments": 1,
+      "created_utc": 1679268629.0,
+      "body": "I have a new prof Xiaojia Zhang, I got 22/26 for the first exam but this exam coming up for me on Thursday I don\u2019t feel so confident. How are some ways you guys study and what resources should I use? I went to her office hours and she missed it.",
+      "professor": {
+        "first_name": "Licheng",
+        "last_name": "Zhang"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "i have a new prof xiaojia zhang, i got 22/26 for t"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1jshcq1",
+      "title": "Rishabh Iyer or Tahrima Rahman for CS 6375 (4375 UG)??",
+      "url": "https://reddit.com/r/utdallas/comments/1jshcq1/rishabh_iyer_or_tahrima_rahman_for_cs_6375_4375_ug/",
+      "score": 2,
+      "num_comments": 6,
+      "created_utc": 1743897802.0,
+      "body": "Which professor should I take? Is anyone taking a class with Tahrima Rahman and how is it so far?\n\nAlso for Rishabh Iyer, are there actually no exams? How hard is his class? ",
+      "professor": {
+        "first_name": "Mahbubur",
+        "last_name": "Rahman"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "kx82uw",
+      "title": "Scheduling Help Needed",
+      "url": "https://reddit.com/r/utdallas/comments/kx82uw/scheduling_help_needed/",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1610638994.0,
+      "body": "Hello all,\n\nI\u2019m currently torn on selecting my schedule for this spring. I want to take 5 classes this semester but the timings of each is giving me a hard time.\n\nThe reason I like schedule 1 is because I can finish all my courses in the morning and have the afternoon to study. But schedule 2 is nic",
+      "professor": {
+        "first_name": "Jennifer",
+        "last_name": "Johnson"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "89t3zv",
+      "title": "Looking for suggestions for Summer Classes (CS/SE)",
+      "url": "https://reddit.com/r/utdallas/comments/89t3zv/looking_for_suggestions_for_summer_classes_csse/",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1522873321.0,
+      "body": "Hello, \n\nI am planning on taking three courses in the summer. EMAG, with Y. Gartstein. Operating System Concepts, with \t\nR. Prakash. Computer Graphics, with K. Zhang. I want to know how hard these classes with these professors are gonna be. Any tips suggestions? \n\nThank you\n",
+      "professor": {
+        "first_name": "Licheng",
+        "last_name": "Zhang"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "4v47xk",
+      "title": "Organic Chemistry 2 Cortes Summer Help/Advice",
+      "url": "https://reddit.com/r/utdallas/comments/4v47xk/organic_chemistry_2_cortes_summer_helpadvice/",
+      "score": 1,
+      "num_comments": 5,
+      "created_utc": 1469756944.0,
+      "body": "Hi Im taking Cortes at UTD over the summer for organic chemistry 2. I really need an A on the final exam and the final is completely multiple choice and online. I havent done well on the past exams and need some advice for the final. Does anyone know any people who may have past exams or resources f",
+      "professor": {
+        "first_name": "Sergio",
+        "last_name": "Cortes"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "and need some advice for the final",
+          "completely multiple choice and online",
+          "or resources for this specific final",
+          "and the final is completely multiple choice and on"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1kar0hg",
+      "title": "PHYS 1301 with Dr. Khan- Final Exam tips and curve",
+      "url": "https://reddit.com/r/utdallas/comments/1kar0hg/phys_1301_with_dr_khan_final_exam_tips_and_curve/",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1745941182.0,
+      "body": "Hello, I am currently taking PHYS 1301 with Dr. khan and I have not been doing great on her exams (getting close to 60s). I need any tips for the final exam, from whoever has taken her for this class. Also, does she curve in any way the final grade? Thank you! ",
+      "professor": {
+        "first_name": "Saba",
+        "last_name": "Khan"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "tips and curve hello, i am currently taking phys 1",
+          "(getting close to 60s)"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "10flbv7",
+      "title": "MKT 3300 Exam Difficulty",
+      "url": "https://reddit.com/r/utdallas/comments/10flbv7/mkt_3300_exam_difficulty/",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": 1674083146.0,
+      "body": "Currently taking MKT 3300 with Sonja Corbin. Are the exams difficult?",
+      "professor": {
+        "first_name": "Sonja",
+        "last_name": "Corbin"
+      },
+      "metadata": {
+        "difficulty": [
+          "difficult"
+        ],
+        "exam_style": [
+          "difficulty currently taking mkt 3300 with sonja co"
+        ],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "1cy11xu",
+      "title": "Any advice or anything I should Know about Jennifer Johnson?",
+      "url": "https://reddit.com/r/utdallas/comments/1cy11xu/any_advice_or_anything_i_should_know_about/",
+      "score": 0,
+      "num_comments": 4,
+      "created_utc": 1716386668.0,
+      "body": "Hello! I will be taking Jennifer Johnson this summer, and she teaches Accounting Analytics. Is there anything I should know about her class? Is the textbook required? Does she grade hard?",
+      "professor": {
+        "first_name": "Jennifer",
+        "last_name": "Johnson"
+      },
+      "metadata": {
+        "difficulty": [
+          "hard"
+        ],
+        "exam_style": [],
+        "workload": []
+      }
+    },
+    {
+      "subreddit": "utdallas",
+      "post_id": "4hxi4z",
+      "title": "CS 3340 with Prof Khan Grade Worry",
+      "url": "https://reddit.com/r/utdallas/comments/4hxi4z/cs_3340_with_prof_khan_grade_worry/",
+      "score": 0,
+      "num_comments": 10,
+      "created_utc": 1462407854.0,
+      "body": "I have made very average (60s and 70s) grades on assignments in this class. My exam grades were both in 60s. What grade should I expect in his class? Any idea? I know he curves a great deal but how much?",
+      "professor": {
+        "first_name": "Saba",
+        "last_name": "Khan"
+      },
+      "metadata": {
+        "difficulty": [],
+        "exam_style": [
+          "grades were both in 60s"
+        ],
+        "workload": []
+      }
+    }
+  ]
+}

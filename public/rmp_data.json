@@ -1,0 +1,13 @@
+{
+  "school": "UT Dallas",
+  "professors": [
+    {
+      "name": "Sample Professor",
+      "department": "CS",
+      "rating": 4.0,
+      "difficulty": 3.0,
+      "clarity": 4.5
+    }
+  ],
+  "note": "Run scripts/fetch_rmp.py to populate, or add entries manually for professor clarity/difficulty."
+}

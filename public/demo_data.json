@@ -1,0 +1,187 @@
+{
+  "courses": [
+    {
+      "id": "course_cs1337",
+      "name": "CS 1337 - Computer Science I",
+      "code": "cs1337",
+      "description": "Introduction to programming with C++. Variables, control flow, functions, arrays, pointers, basic I/O, and software design principles.",
+      "dfwRate": 0.18,
+      "institutionalSuccess": 0.82,
+      "prereqs": [],
+      "gradeDistribution": { "A": 0.32, "B": 0.38, "C": 0.18, "D": 0.06, "F": 0.06 }
+    },
+    {
+      "id": "course_cs2336",
+      "name": "CS 2336 - Computer Science II",
+      "code": "cs2336",
+      "description": "Object-oriented design, inheritance, polymorphism, templates, recursion, basic data structures: stacks, queues, linked lists.",
+      "dfwRate": 0.15,
+      "institutionalSuccess": 0.85,
+      "prereqs": ["course_cs1337"],
+      "gradeDistribution": { "A": 0.35, "B": 0.38, "C": 0.17, "D": 0.05, "F": 0.05 }
+    },
+    {
+      "id": "course_cs3345",
+      "name": "CS 3345 - Data Structures",
+      "code": "cs3345",
+      "description": "Data structures and algorithms: lists, trees, heaps, graphs, sorting, hashing. Time/space complexity analysis.",
+      "dfwRate": 0.22,
+      "institutionalSuccess": 0.78,
+      "prereqs": ["course_cs2336"],
+      "gradeDistribution": { "A": 0.28, "B": 0.36, "C": 0.22, "D": 0.07, "F": 0.07 }
+    },
+    {
+      "id": "course_cs3354",
+      "name": "CS 3354 - Software Engineering",
+      "code": "cs3354",
+      "description": "Software lifecycle, agile, requirements, design patterns, UML, testing, version control, team projects.",
+      "dfwRate": 0.12,
+      "institutionalSuccess": 0.88,
+      "prereqs": ["course_cs2336"],
+      "gradeDistribution": { "A": 0.40, "B": 0.38, "C": 0.14, "D": 0.04, "F": 0.04 }
+    },
+    {
+      "id": "course_cs3341",
+      "name": "CS 3341 - Probability & Statistics",
+      "code": "cs3341",
+      "description": "Probability theory, random variables, distributions, Bayesian inference, hypothesis testing, regression analysis.",
+      "dfwRate": 0.20,
+      "institutionalSuccess": 0.80,
+      "prereqs": ["course_cs2336", "course_math2414"],
+      "gradeDistribution": { "A": 0.30, "B": 0.36, "C": 0.20, "D": 0.07, "F": 0.07 }
+    },
+    {
+      "id": "course_cs4337",
+      "name": "CS 4337 - Programming Languages",
+      "code": "cs4337",
+      "description": "Language paradigms: imperative, OOP, functional, logic. Syntax, semantics, type systems, lambda calculus.",
+      "dfwRate": 0.16,
+      "institutionalSuccess": 0.84,
+      "prereqs": ["course_cs3345"],
+      "gradeDistribution": { "A": 0.34, "B": 0.37, "C": 0.17, "D": 0.06, "F": 0.06 }
+    },
+    {
+      "id": "course_math2413",
+      "name": "MATH 2413 - Calculus I",
+      "code": "math2413",
+      "description": "Limits, continuity, derivatives, differentiation rules, applications of derivatives, antiderivatives, integration.",
+      "dfwRate": 0.24,
+      "institutionalSuccess": 0.76,
+      "prereqs": [],
+      "gradeDistribution": { "A": 0.27, "B": 0.35, "C": 0.22, "D": 0.08, "F": 0.08 }
+    },
+    {
+      "id": "course_math2414",
+      "name": "MATH 2414 - Calculus II",
+      "code": "math2414",
+      "description": "Integral calculus: techniques of integration, applications, series, sequences, Taylor series, polar coordinates.",
+      "dfwRate": 0.26,
+      "institutionalSuccess": 0.74,
+      "prereqs": ["course_math2413"],
+      "gradeDistribution": { "A": 0.25, "B": 0.34, "C": 0.23, "D": 0.09, "F": 0.09 }
+    },
+    {
+      "id": "course_chem2323",
+      "name": "CHEM 2323 - Organic Chemistry I",
+      "code": "chem2323",
+      "description": "Structure, nomenclature, reactions of organic compounds. Stereochemistry, substitution, elimination, addition reactions.",
+      "dfwRate": 0.28,
+      "institutionalSuccess": 0.72,
+      "prereqs": [],
+      "gradeDistribution": { "A": 0.24, "B": 0.33, "C": 0.24, "D": 0.10, "F": 0.09 }
+    },
+    {
+      "id": "course_chem2325",
+      "name": "CHEM 2325 - Organic Chemistry II",
+      "code": "chem2325",
+      "description": "Aromatic chemistry, carbonyl compounds, amines, carbohydrates, spectroscopy (NMR, IR, MS), multi-step synthesis.",
+      "dfwRate": 0.25,
+      "institutionalSuccess": 0.75,
+      "prereqs": ["course_chem2323"],
+      "gradeDistribution": { "A": 0.26, "B": 0.34, "C": 0.23, "D": 0.09, "F": 0.08 }
+    }
+  ],
+  "concepts": {
+    "course_cs1337": [
+      { "id": "concept_cs1337_variables", "name": "Variables & Types", "deps": [] },
+      { "id": "concept_cs1337_control_flow", "name": "Control Flow", "deps": ["concept_cs1337_variables"] },
+      { "id": "concept_cs1337_functions", "name": "Functions & Scope", "deps": ["concept_cs1337_control_flow"] },
+      { "id": "concept_cs1337_arrays", "name": "Arrays & Pointers", "deps": ["concept_cs1337_functions"] },
+      { "id": "concept_cs1337_oop_intro", "name": "OOP Intro", "deps": ["concept_cs1337_arrays"] },
+      { "id": "concept_cs1337_io", "name": "File I/O", "deps": ["concept_cs1337_functions"] }
+    ],
+    "course_cs2336": [
+      { "id": "concept_cs2336_classes", "name": "Classes & Objects", "deps": [] },
+      { "id": "concept_cs2336_inheritance", "name": "Inheritance", "deps": ["concept_cs2336_classes"] },
+      { "id": "concept_cs2336_polymorphism", "name": "Polymorphism", "deps": ["concept_cs2336_inheritance"] },
+      { "id": "concept_cs2336_templates", "name": "Templates & STL", "deps": ["concept_cs2336_polymorphism"] },
+      { "id": "concept_cs2336_recursion", "name": "Recursion", "deps": ["concept_cs2336_classes"] },
+      { "id": "concept_cs2336_linked_lists", "name": "Linked Lists", "deps": ["concept_cs2336_recursion"] }
+    ],
+    "course_cs3345": [
+      { "id": "concept_cs3345_complexity", "name": "Time Complexity", "deps": [] },
+      { "id": "concept_cs3345_linked_lists", "name": "Lists & Stacks", "deps": ["concept_cs3345_complexity"] },
+      { "id": "concept_cs3345_trees", "name": "Trees & BST", "deps": ["concept_cs3345_linked_lists"] },
+      { "id": "concept_cs3345_heaps", "name": "Heaps & Priority Queues", "deps": ["concept_cs3345_trees"] },
+      { "id": "concept_cs3345_hashing", "name": "Hash Tables", "deps": ["concept_cs3345_complexity"] },
+      { "id": "concept_cs3345_graphs", "name": "Graph Algorithms", "deps": ["concept_cs3345_trees"] },
+      { "id": "concept_cs3345_sorting", "name": "Sorting Algorithms", "deps": ["concept_cs3345_heaps"] }
+    ],
+    "course_cs3354": [
+      { "id": "concept_cs3354_sdlc", "name": "SDLC & Agile", "deps": [] },
+      { "id": "concept_cs3354_requirements", "name": "Requirements Engineering", "deps": ["concept_cs3354_sdlc"] },
+      { "id": "concept_cs3354_design_patterns", "name": "Design Patterns", "deps": ["concept_cs3354_requirements"] },
+      { "id": "concept_cs3354_uml", "name": "UML Modeling", "deps": ["concept_cs3354_design_patterns"] },
+      { "id": "concept_cs3354_testing", "name": "Testing & QA", "deps": ["concept_cs3354_requirements"] },
+      { "id": "concept_cs3354_git", "name": "Version Control", "deps": ["concept_cs3354_sdlc"] }
+    ],
+    "course_cs3341": [
+      { "id": "concept_cs3341_probability", "name": "Probability Basics", "deps": [] },
+      { "id": "concept_cs3341_random_vars", "name": "Random Variables", "deps": ["concept_cs3341_probability"] },
+      { "id": "concept_cs3341_distributions", "name": "Distributions", "deps": ["concept_cs3341_random_vars"] },
+      { "id": "concept_cs3341_bayes", "name": "Bayesian Inference", "deps": ["concept_cs3341_distributions"] },
+      { "id": "concept_cs3341_hypothesis", "name": "Hypothesis Testing", "deps": ["concept_cs3341_distributions"] },
+      { "id": "concept_cs3341_regression", "name": "Regression Analysis", "deps": ["concept_cs3341_hypothesis"] }
+    ],
+    "course_cs4337": [
+      { "id": "concept_cs4337_syntax", "name": "Syntax & Grammars", "deps": [] },
+      { "id": "concept_cs4337_semantics", "name": "Operational Semantics", "deps": ["concept_cs4337_syntax"] },
+      { "id": "concept_cs4337_types", "name": "Type Systems", "deps": ["concept_cs4337_semantics"] },
+      { "id": "concept_cs4337_functional", "name": "Functional Programming", "deps": ["concept_cs4337_types"] },
+      { "id": "concept_cs4337_lambda", "name": "Lambda Calculus", "deps": ["concept_cs4337_functional"] },
+      { "id": "concept_cs4337_logic", "name": "Logic Programming", "deps": ["concept_cs4337_types"] }
+    ],
+    "course_math2413": [
+      { "id": "concept_math2413_limits", "name": "Limits & Continuity", "deps": [] },
+      { "id": "concept_math2413_derivatives", "name": "Derivatives", "deps": ["concept_math2413_limits"] },
+      { "id": "concept_math2413_diff_rules", "name": "Differentiation Rules", "deps": ["concept_math2413_derivatives"] },
+      { "id": "concept_math2413_applications", "name": "Optimization", "deps": ["concept_math2413_diff_rules"] },
+      { "id": "concept_math2413_integration", "name": "Integration Basics", "deps": ["concept_math2413_derivatives"] },
+      { "id": "concept_math2413_ftc", "name": "Fundamental Theorem", "deps": ["concept_math2413_integration"] }
+    ],
+    "course_math2414": [
+      { "id": "concept_math2414_techniques", "name": "Integration Techniques", "deps": [] },
+      { "id": "concept_math2414_applications", "name": "Area & Volume", "deps": ["concept_math2414_techniques"] },
+      { "id": "concept_math2414_sequences", "name": "Sequences & Series", "deps": ["concept_math2414_applications"] },
+      { "id": "concept_math2414_convergence", "name": "Convergence Tests", "deps": ["concept_math2414_sequences"] },
+      { "id": "concept_math2414_taylor", "name": "Taylor Series", "deps": ["concept_math2414_convergence"] },
+      { "id": "concept_math2414_polar", "name": "Polar Coordinates", "deps": ["concept_math2414_techniques"] }
+    ],
+    "course_chem2323": [
+      { "id": "concept_chem2323_structure", "name": "Molecular Structure", "deps": [] },
+      { "id": "concept_chem2323_stereochem", "name": "Stereochemistry", "deps": ["concept_chem2323_structure"] },
+      { "id": "concept_chem2323_alkanes", "name": "Alkanes & Nomenclature", "deps": ["concept_chem2323_structure"] },
+      { "id": "concept_chem2323_substitution", "name": "SN1 & SN2 Reactions", "deps": ["concept_chem2323_alkanes"] },
+      { "id": "concept_chem2323_elimination", "name": "Elimination Reactions", "deps": ["concept_chem2323_substitution"] },
+      { "id": "concept_chem2323_addition", "name": "Addition Reactions", "deps": ["concept_chem2323_structure"] }
+    ],
+    "course_chem2325": [
+      { "id": "concept_chem2325_aromatic", "name": "Aromatic Chemistry", "deps": [] },
+      { "id": "concept_chem2325_carbonyl", "name": "Carbonyl Compounds", "deps": ["concept_chem2325_aromatic"] },
+      { "id": "concept_chem2325_amines", "name": "Amines & N-compounds", "deps": ["concept_chem2325_carbonyl"] },
+      { "id": "concept_chem2325_carbohydrates", "name": "Carbohydrates", "deps": ["concept_chem2325_carbonyl"] },
+      { "id": "concept_chem2325_spectroscopy", "name": "NMR & Spectroscopy", "deps": ["concept_chem2325_aromatic"] },
+      { "id": "concept_chem2325_synthesis", "name": "Multi-step Synthesis", "deps": ["concept_chem2325_amines", "concept_chem2325_carbonyl"] }
+    ]
+  }
+}
