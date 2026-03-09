@@ -1,4 +1,4 @@
-# Nebula Learning Galaxy
+# Astra
 
 Immersive 3D UTD learning galaxy: course → concept graph, Bayesian mastery, per-node quizzes, and explainable recommendations.
 
