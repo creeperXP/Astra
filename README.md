@@ -1,4 +1,4 @@
-# Astra
+# Astra - Won Best Use of MongoDB @ HackAI 2026
 
 Immersive 3D UTD learning galaxy: course → concept graph, Bayesian mastery, per-node quizzes, and explainable recommendations.
 
